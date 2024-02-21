@@ -1,5 +1,8 @@
 _repo: Through-deserts-and-oases-of-central-Asia_72916
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72916-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Sykes, Ella Constance
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5303
     wikipedia: https://en.wikipedia.org/wiki/Percy_Sykes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72916#Through-deserts-and-oases-of-central-Asia
 gutenberg_issued: '2024-02-09'
 gutenberg_type: Text
 identifiers:
